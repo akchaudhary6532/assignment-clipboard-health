@@ -1,4 +1,6 @@
-## Challenge 
+## `clipboard` folder contains the elixir solution code and its personal readme for the question asked below.
+
+## Challenge given by clipboard-health
 
 The context for this challenge is the following: You work at a company that powers a marketplace app for healthcare facilities to hire healthcare professionals (a.k.a. workers).
 
