@@ -1,14 +1,17 @@
 # Clipboard
-To start your Phoenix server:
-
-- Install dependencies with `mix deps.get`
-- Start Phoenix endpoint with `mix phx.server` 
 
 To Follow the code, check the test and retrace from there. Also, please read @spec for a better understanding of the functions.
 
+Context File:
+  - @[Available_shifts.ex](https://github.com/akchaudhary6532/assignment-clipboard-health/blob/dev1/clipboard/lib/clipboard/context/available_shifts.ex)
+
 Test Files: 
-context (logic) tests @ [test/clipboard/context/available_shifts_test.exs](https://github.com/hatchways-community/1a2c5b5a56954f0d965ce5c5d1443009/blob/8b8dcb332a314175b946c3a062a6419a7894fa3b/clipboard/test/clipboard/context/available_shifts_test.exs)
-controller (functional) test @ [test/clipboard_web/controllers/shift_controller_test.exs](https://github.com/hatchways-community/1a2c5b5a56954f0d965ce5c5d1443009/blob/8b8dcb332a314175b946c3a062a6419a7894fa3b/clipboard/test/clipboard_web/controllers/shift_controller_test.exs)
+  - context (logic) tests 
+    @ [available_shifts_test.exs](https://github.com/hatchways-community/1a2c5b5a56954f0d965ce5c5d1443009/blob/8b8dcb332a314175b946c3a062a6419a7894fa3b/clipboard/test/clipboard/context/available_shifts_test.exs)
+   - controller (functional) test 
+    @ [shift_controller_test.exs](https://github.com/hatchways-community/1a2c5b5a56954f0d965ce5c5d1443009/blob/8b8dcb332a314175b946c3a062a6419a7894fa3b/clipboard/test/clipboard_web/controllers/shift_controller_test.exs)
+
+---
 
 Ignored requirement:
 - The shifts must be grouped by date. 
